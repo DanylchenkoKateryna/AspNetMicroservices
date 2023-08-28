@@ -11,12 +11,12 @@
     "Catalog.API": {
       "commandName": "Project",
       "launchBrowser": true,
-      "dotnetRunMessages": true,
       "launchUrl": "swagger",
-      "applicationUrl": "http://localhost:5215",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
-      }
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "http://localhost:5000"
     }
   },
   "$schema": "https://json.schemastore.org/launchsettings.json",
@@ -24,7 +24,7 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:57233",
+      "applicationUrl": "http://localhost:23272",
       "sslPort": 0
     }
   }
